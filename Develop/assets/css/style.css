@@ -198,3 +198,12 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/* add-code-1 */
+main{
+    display: inline;
+}
+.side-section{
+    display: inline;
+}
+/* add-code-1 */
