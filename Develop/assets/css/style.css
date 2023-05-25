@@ -54,10 +54,6 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-
-    /* I moved the meeting image to index.html where it belong */
-
-    /* background-image: url("../images/digital-marketing-meeting.jpg"); */
     background-size: cover;
     background-position: center;
 }
@@ -202,11 +198,9 @@ p {
     font-size: 20px;
 }
 
-/* add-code-1 */
 main{
     display: inline;
 }
 .side-section{
     display: inline;
 }
-/* add-code-1 */
