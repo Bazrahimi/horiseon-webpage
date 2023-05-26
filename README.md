@@ -29,4 +29,4 @@ https://git.bootcampcontent.com/Monash-University/MONU-VIRT-FSF-PT-05-2023-U-LOL
 
 ## License
 
-The code base is released under the MIT Licese, but feel free to use, modify, and distribute the code.
+The code base is released under the MIT Licese, but feel free to use, modify, and distribute the code..
