@@ -18,7 +18,7 @@ The code base is as follow:
 Please feel free to use this code as starter-code for your own webpage. you alwase can modify the HTML and CSS files to customize the design.
 
 
-(./Assets/Screenshot%202023-05-26%20at%2011.16.08%20pm.png)
+![Screenshot of webpage](./Assets/Screenshot%202023-05-26%20at%2011.16.08%20pm.png)
 
 ## Credits
 
